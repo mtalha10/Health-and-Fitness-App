@@ -1,5 +1,7 @@
 # Health-and-Fitness-App : A Machine Learning-Based App
 
+Link to Huggingface Space: https://huggingface.co/spaces/talha10/Health-and-Fitness-App
+
 ## Introduction:
 I created the project `Health and Fitness App`, designed for you to monitor and improve your overall well-being. This comprehensive app offers a wide range of features and tools to help you track your physical activity, sleep patterns, and caloric expenditure, empowering you to make informed decisions about your health and fitness goals.
 
